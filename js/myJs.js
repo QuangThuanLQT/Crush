@@ -128,7 +128,7 @@ $('#yes').click(function() {
                     //ban thay cho nay chua
                     //thay duong dan vao day nay
                     //de may qc nhieu the
-                    window.location = 'https://www.facebook.com/lequangthuan97/';
+                    window.location = 'https://www.facebook.com/lequangthuan97';
                   }
             })
         }
